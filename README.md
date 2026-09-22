@@ -1,2 +1,2 @@
-# Data-scientist
+# Practicum_projects
 Здесь находятся примеры выполненных работ
